@@ -1,31 +1,15 @@
+*** paste your code which you made the reqired mods to :
 
-public class Calculator {
+add methods for
 
-	public static void main(String[] args) {
-		System.out.println("starting Calculator");
-		run();		
-		
-	}
+substract
 
-	public static void run() {
-		// this is the method that I will use to 
-		// run my Method Choreography 	
-		DoArithmetic a = new DoArithmetic();
-		double result = a.Add(2, 2);
-		
-		System.out.println(result);
+multiple
 
-	}
-	
-}
+divide 
 
+add test cases
 
-public class DoArithmetic {
+run as junit
 
-	//todo: implement JUNIT for this method
-	
-	public double Add(double inputa, double inputb) {	
-		return inputa + inputb;
-	}
-	
-}
+screen shot into word doc
